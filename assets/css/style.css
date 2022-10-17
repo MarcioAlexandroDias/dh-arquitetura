@@ -1,0 +1,49 @@
+main, footer {
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+/* or 200% */
+
+    text-align: center;
+
+    color: #7D7987;
+}
+
+.title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 49px;
+    line-height: 56px;
+
+    text-align: center;
+    color: #000000;
+}
+
+.title strong {
+    color: #6C63FF;
+}
+
+.title span strong {
+    color: #6C63FF;
+}
+
+hr {
+    background-color: #ECEFF2;
+    border: 1px solid #ECEFF2;
+    width: 800px;
+
+}
+
+footer a {
+    color: #6C63FF;
+    letter-spacing: 2;
+}
+.text span {
+    color: #6C63FF;
+}
+hr {
+    color:#ECEFF2
+}
